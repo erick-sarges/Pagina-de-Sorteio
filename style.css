@@ -14,21 +14,13 @@ body{
     src: url(./fonts/PermanentMarker-Regular.ttf);
 }
 
-#tema{
-    padding: 7px;
-    border: none;
-    border-radius: 10px;
-    font-family: Itim;
-    font-size: 20px;
-    background-color: lime;
-    box-shadow: 0px 3px 10px #ff1493;
-}
-
 #d1{
 
     width: fit-content;
     margin: auto;
     text-align: center;
+    margin-top: 200px;
+
 
 
 }
